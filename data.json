@@ -1,0 +1,48 @@
+{"basics":{
+    "image":"chandu2.jpg",
+    "name":"Mullangi Chandrasekhar",
+    "phoneno":"+91 9848914846",
+    "email":"chandumullangi3@gmail.com",
+    "address":"Chennareddypalli, Prakasam, Andhrapradesh, 523371"
+  },
+  "Careerobjective":{
+    "carrier":"As a fresher to work in an environment of growth and excellence and earn a job which provides me satisfaction and self development and to use my engineering to achieve organizational goals."
+},
+  "education":[{
+    "degree":"B.Tech",
+    "institute":"Dr. SGIET, Markapur",
+    "data":["2015-2019","70.34%"]
+  
+  },
+    {
+    "degree":"Intermediate",
+    "institute":"Sri Saivikas Junior College",
+    "data":["2012-2016","63%"]
+  },
+  {
+    "degree":"SSC",
+    "institute":"Z.P.High School",
+    "data":["2013","8.3(GPA)"]
+  }
+
+  ],
+  "skills":[{
+    "title":"Languages",
+    "data":["Python","HTML 5"]
+    },
+  {
+    "title":"Technologies",
+    "data":["Angular 7","React JS","Django","CSS 3","Javascript"]
+    },
+  {
+    "title":"Operating Systems",
+    "data":["Windows","MAC"]
+    }],
+    "achievements":[{
+      "data":"Certificate of Participation on TWODAY’S NATIONAL LEVEL WORKSHOP."
+      },
+    {
+      "data":"Merit Certificate for getting 2nd in MECHANICAL DEPARTMENT in Dr.SGIT."
+      }
+    ]
+  }
